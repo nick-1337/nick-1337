@@ -13,7 +13,7 @@
       <br>
       <p><b>Status:</b> Operativo (Licenciatura en Ciberseguridad)</p>
       <p><b>Specialization:</b> Pentesting, OSINT y análisis de redes.</p>
-      <p>Desarrollando herramientas de auditoría en <code>C++</code> y <code>Bash</code>. Operando bajo entornos <code>Ubuntu / WSL</code> para la ejecución de despliegues ofensivos y recolección de inteligencia.</p>
+      <p>Desarrollando herramientas de auditoría y operando bajo entornos Linux para la ejecución de despliegues ofensivos y recolección de inteligencia.</p>
     </td>
     <td width="35%" align="center" valign="top">
       <img src="https://media1.tenor.com/m/46SpTe8lvXIAAAAd/dedsec-dedsec-logo.gif" width="100%" style="border-radius: 8px;" />
@@ -23,24 +23,38 @@
 
 <br>
 
+### <img src="https://media1.tenor.com/m/iAnI0R6EeIkAAAAC/dedsec-boom.gif" width="28" align="center" /> [ /sys/education ]
+<br>
+<p><b>UNDEF:</b> Licenciatura en Ciberseguridad (En curso)</p>
+<p><b>UTN:</b> Formación académica previa</p>
+
+<br>
+
 ### <img src="https://media1.tenor.com/m/iAnI0R6EeIkAAAAC/dedsec-boom.gif" width="28" align="center" /> [ /bin/toolset ]
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+<br>
+<p><b>> Languages_</b></p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> 
 
-<img src="https://img.shields.io/badge/Ubuntu-E9433F?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white" /> <img src="https://img.shields.io/badge/Pentesting-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge" />
+<br><br>
+<p><b>> Operating_Systems_</b></p>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E9433F?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+
+<br><br>
+<p><b>> Offensive_&_Audit_Tools_</b></p>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-EE5C22?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Ettercap-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" /> <img src="https://img.shields.io/badge/Pentesting-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge" />
 
 ---
 
 ### <img src="https://media1.tenor.com/m/iAnI0R6EeIkAAAAC/dedsec-boom.gif" width="28" align="center" /> [ /var/log/activity ]
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_ACA&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_ACA&layout=compact&theme=matrix&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=matrix&hide_border=true" />
 </div>
 
 ---
 
 <p align="center">
   <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="LINK_A_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
