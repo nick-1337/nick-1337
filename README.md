@@ -9,21 +9,21 @@
 <table border="0" width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3>[ /sys/user/info ]</h3>
+      <h3><img src="https://media1.tenor.com/m/iAnI0R6EeIkAAAAC/dedsec-boom.gif" width="28" align="center" /> [ /sys/user/info ]</h3>
       <br>
       <p><b>Status:</b> Operativo (Licenciatura en Ciberseguridad)</p>
       <p><b>Specialization:</b> Pentesting, OSINT y análisis de redes.</p>
       <p>Desarrollando herramientas de auditoría en <code>C++</code> y <code>Bash</code>. Operando bajo entornos <code>Ubuntu / WSL</code> para la ejecución de despliegues ofensivos y recolección de inteligencia.</p>
     </td>
     <td width="35%" align="center" valign="top">
-      <img src="https://media1.tenor.com/m/iAnI0R6EeIkAAAAC/dedsec-boom.gif" width="100%" style="border-radius: 8px;" />
+      <img src="https://media1.tenor.com/m/46SpTe8lvXIAAAAd/dedsec-dedsec-logo.gif" width="100%" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
 
 <br>
 
-### [ /bin/toolset ]
+### <img src="https://media1.tenor.com/m/iAnI0R6EeIkAAAAC/dedsec-boom.gif" width="28" align="center" /> [ /bin/toolset ]
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
 
@@ -31,7 +31,7 @@
 
 ---
 
-### [ /var/log/activity ]
+### <img src="https://media1.tenor.com/m/iAnI0R6EeIkAAAAC/dedsec-boom.gif" width="28" align="center" /> [ /var/log/activity ]
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_ACA&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true&count_private=true" />
