@@ -16,7 +16,7 @@
       <p>Desarrollando herramientas de auditoría en <code>C++</code> y <code>Bash</code>. Operando bajo entornos <code>Ubuntu / WSL</code> para la ejecución de despliegues ofensivos y recolección de inteligencia.</p>
     </td>
     <td width="35%" align="center" valign="top">
-      <img src="https://media1.tenor.com/m/46SpTe8lvXIAAAAd/dedsec-dedsec-logo.gif" width="100%" style="border-radius: 8px;" />
+      <img src="https://media1.tenor.com/m/iAnI0R6EeIkAAAAC/dedsec-boom.gif" width="100%" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
