@@ -16,7 +16,7 @@
       <p>Desarrollando herramientas de auditoría en <code>C++</code> y <code>Bash</code>. Operando bajo entornos <code>Ubuntu / WSL</code> para la ejecución de despliegues ofensivos y recolección de inteligencia.</p>
     </td>
     <td width="35%" align="center" valign="top">
-      <img src="https://i.pinimg.com/originals/3a/81/29/3a81297e68e42ec9fb230eb120286a11.gif" width="100%" style="border-radius: 8px;" />
+      <img src="[https://i.pinimg.com/originals/3a/81/29/3a81297e68e42ec9fb230eb120286a11.gif](https://tenor.com/tHT0DmKWTzW.gif)" width="100%" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
