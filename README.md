@@ -32,17 +32,23 @@
 
 ### <img src="https://media1.tenor.com/m/iAnI0R6EeIkAAAAC/dedsec-boom.gif" width="28" align="center" /> [ /bin/toolset ]
 
-<br>
-<p><b>> Languages_</b></p>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> 
-
-<br><br>
-<p><b>> Operating_Systems_</b></p>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E9433F?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-
-<br><br>
-<p><b>> Offensive_&_Audit_Tools_</b></p>
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-EE5C22?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Ettercap-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" /> <img src="https://img.shields.io/badge/Pentesting-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge" />
+<table border="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <p><b>> Languages_</b></p>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> 
+      <br><br>
+      <p><b>> Operating_Systems_</b></p>
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E9433F?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+      <br><br>
+      <p><b>> Offensive_&_Audit_Tools_</b></p>
+      <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-EE5C22?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Ettercap-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" /> <img src="https://img.shields.io/badge/Pentesting-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge" />
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media1.tenor.com/m/imXWf-HqIWAAAAAC/dedsec.gif" width="100%" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
