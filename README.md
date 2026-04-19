@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=hello+friend;Valen@UNDEF:~$+whoami;Cyberdefense+Student;Offensive+Security..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=hello+friend;nick-1337@UNDEF:~$+whoami;Cyberdefense+Student;Offensive+Security..." alt="Typing SVG" />
 
 </div>
 
@@ -48,10 +48,10 @@
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> 
       <br><br>
       <p><b>> Operating_Systems_</b></p>
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E9433F?style=flat-square&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/WSL-0078D4?style=flat-square&logo=windows-terminal&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E9433F?style=flat-square&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/WSL-0078D4?style=flat-square&logo=windows-terminal&logoColor=white" />
       <br><br>
       <p><b>> Offensive_&_Audit_Tools_</b></p>
-      <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-EE5C22?style=flat-square&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Ettercap-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" /> <img src="https://img.shields.io/badge/OSINT-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/Nmap-8fe4f8?style=flat-square&logo=nmap&logoColor=black" /> <img src="https://img.shields.io/badge/Metasploit-EE5C22?style=flat-square&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Ettercap-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" /> <img src="https://img.shields.io/badge/OSINT-000000?style=flat-square" />
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="https://media1.tenor.com/m/imXWf-HqIWAAAAAC/dedsec.gif" width="100%" style="border-radius: 8px;" />
