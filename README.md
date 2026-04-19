@@ -9,7 +9,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3><img src="https://media1.tenor.com/m/iAnI0R6EeIkAAAAC/dedsec-boom.gif" width="28" align="center" /> [ /sys/user/info ]</h3>
+      <h3><img src="https://media1.tenor.com/m/6wEOw2iNcB4AAAAC/dedsec.gif" width="28" align="center" /> [ /sys/user/info ]</h3>
       <br>
       <p><b>Status:</b> Operativo (Licenciatura en Ciberdefensa)</p>
       <p><b>Specialization:</b> OSINT y análisis de redes.</p>
@@ -23,13 +23,13 @@
 
 <br>
 
-### <img src="https://media1.tenor.com/m/iAnI0R6EeIkAAAAC/dedsec-boom.gif" width="28" align="center" /> [ /sys/education ]
+### <img src="https://media1.tenor.com/m/6wEOw2iNcB4AAAAC/dedsec.gif" width="28" align="center" /> [ /sys/education ]
 <p><b>UNDEF:</b> Licenciatura en Ciberdefensa (En curso)</p>
 <p><b>UTN:</b> Tecnicatura en Programación</p>
 
 <br>
 
-### <img src="https://media1.tenor.com/m/iAnI0R6EeIkAAAAC/dedsec-boom.gif" width="28" align="center" /> [ /sys/experience ]
+### <img src="https://media1.tenor.com/m/6wEOw2iNcB4AAAAC/dedsec.gif" width="28" align="center" /> [ /sys/experience ]
 <p><b>> Soporte Nivel 1 y 2:</b> Diagnóstico y resolución de problemáticas de hardware y software en tiempo real, operando como interfaz técnica directa para la gestión de requerimientos y asistencia a usuarios finales.</p>
 <p><b>> Despliegue y Mantenimiento:</b> Instalación, configuración y mantenimiento preventivo/correctivo de estaciones de trabajo, dispositivos móviles y equipamiento tecnológico en entornos de alta demanda operativa.</p>
 <p><b>> Gestión de Redes:</b> Monitoreo de enlaces, configuración de protocolos de comunicación y troubleshooting básico de redes (TCP/IP, Wi-Fi) para asegurar la continuidad del servicio.</p>
@@ -37,7 +37,7 @@
 
 <br>
 
-### <img src="https://media1.tenor.com/m/iAnI0R6EeIkAAAAC/dedsec-boom.gif" width="28" align="center" /> [ /bin/toolset ]
+### <img src="https://media1.tenor.com/m/6wEOw2iNcB4AAAAC/dedsec.gif" width="28" align="center" /> [ /bin/toolset ]
 
 <table border="0" width="100%">
   <tr>
@@ -62,11 +62,10 @@
 
 ---
 
-### <img src="https://media1.tenor.com/m/iAnI0R6EeIkAAAAC/dedsec-boom.gif" width="28" align="center" /> [ /var/log/activity ]
+### <img src="https://media1.tenor.com/m/6wEOw2iNcB4AAAAC/dedsec.gif" width="28" align="center" /> [ /sys/traffic_logs ]
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nick-1337&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true&count_private=true" width="480" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick-1337&layout=compact&theme=matrix&hide_border=true" width="350" />
+  <img src="https://visitor-counter-badge.vercel.app/api/nick-1337/hits?color=FFFFFF&labelColor=000000&style=flat-square&label=Infiltraciones" alt="Contador de Infiltraciones" />
 </div>
 
 ---
