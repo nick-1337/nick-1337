@@ -32,8 +32,10 @@
 
 ### <img src="https://media1.tenor.com/m/iAnI0R6EeIkAAAAC/dedsec-boom.gif" width="28" align="center" /> [ /sys/experience ]
 <br>
-<p><b>Hardware & Logistics:</b> Gestión y despliegue técnico de equipos de sonido pesado (Operaciones de campo).</p>
-<p><b>Independent Developer:</b> Desarrollo de lógica de motores en C++/TypeScript y scripts de automatización con Puppeteer.</p>
+<p><b>> Soporte Nivel 1 y 2:</b> Diagnóstico y resolución de problemáticas de hardware y software en tiempo real, operando como interfaz técnica directa para la gestión de requerimientos y asistencia a usuarios finales.</p>
+<p><b>> Despliegue y Mantenimiento:</b> Instalación, configuración y mantenimiento preventivo/correctivo de estaciones de trabajo, dispositivos móviles y equipamiento tecnológico en entornos de alta demanda operativa.</p>
+<p><b>> Gestión de Redes:</b> Monitoreo de enlaces, configuración de protocolos de comunicación y troubleshooting básico de redes (TCP/IP, Wi-Fi) para asegurar la continuidad del servicio.</p>
+<p><b>> Troubleshooting:</b> Resolución de problemas de compatibilidad de software y controladores para la integración de sistemas de video y audio.</p>
 
 <br>
 
