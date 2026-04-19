@@ -64,8 +64,8 @@
 ### <img src="https://media1.tenor.com/m/iAnI0R6EeIkAAAAC/dedsec-boom.gif" width="28" align="center" /> [ /var/log/activity ]
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nick-1337&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick-1337&layout=compact&theme=matrix&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nick-1337&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick-1337&layout=compact&theme=matrix&hide_border=true" />
 </div>
 
 ---
