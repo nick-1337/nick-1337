@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hello+friend;nick-1337@UNDEF:~$+whoami;Cyberdefense+Student;Offensive+Security..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=hello+friend;nick-1337@UNDEF:~$+whoami;Cyberdefense+Student;Offensive+Security..." alt="Typing SVG" />
 
 </div>
 
@@ -9,7 +9,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=FFFFFF&vCenter=true&width=30&lines=%20&cursor=_" align="center" /> [ /sys/user/info ]</h3>
+      <h3><img src="https://media1.tenor.com/m/6wEOw2iNcB4AAAAC/dedsec.gif" width="28" align="center" /> [ /sys/user/info ]</h3>
       <br>
       <p><b>Status:</b> Operative (B.S. in Cyberdefense)</p>
       <p><b>Specialization:</b> Penetration Testing, OSINT & Network Security.</p>
@@ -23,13 +23,13 @@
 
 <br>
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=FFFFFF&vCenter=true&width=30&lines=%20&cursor=_" align="center" /> [ /sys/education ]
+### <img src="https://media1.tenor.com/m/6wEOw2iNcB4AAAAC/dedsec.gif" width="28" align="center" /> [ /sys/education ]
 <p><b>UNDEF:</b> Bachelor's Degree in Cyberdefense (In Progress)</p>
 <p><b>UTN:</b> Technical Degree in Programming</p>
 
 <br>
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=FFFFFF&vCenter=true&width=30&lines=%20&cursor=_" align="center" /> [ /bin/toolset ]
+### <img src="https://media1.tenor.com/m/6wEOw2iNcB4AAAAC/dedsec.gif" width="28" align="center" /> [ /bin/toolset ]
 
 <table border="0" width="100%">
   <tr>
@@ -54,7 +54,7 @@
 
 ---
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=FFFFFF&vCenter=true&width=30&lines=%20&cursor=_" align="center" /> [ /sys/traffic_logs ]
+### <img src="https://media1.tenor.com/m/6wEOw2iNcB4AAAAC/dedsec.gif" width="28" align="center" /> [ /sys/traffic_logs ]
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nick-1337&label=INFILTRATIONS&color=000000&style=flat-square&label_color=000000" alt="Traffic Logs" />
