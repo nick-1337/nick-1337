@@ -57,7 +57,7 @@
 ### <img src="https://media1.tenor.com/m/6wEOw2iNcB4AAAAC/dedsec.gif" width="28" align="center" /> [ /sys/traffic_logs ]
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nick-1337&label=INFILTRATIONS&color=FFFFFF&style=flat-square&label_color=FFFFFF" alt="Traffic Logs" />
+  <img src="https://komarev.com/ghpvc/?username=nick-1337&label=INFILTRATIONS&color=000000&style=flat-square&label_color=000000" alt="Traffic Logs" />
 </div>
 
 ---
