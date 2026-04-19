@@ -59,9 +59,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nick-1337&label=INFILTRATIONS&color=000000&style=flat-square&label_color=000000" alt="Traffic Logs" />
 </div>
-
----
-
-<p align="center">
-  <a href="mailto:valentino.barrio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
